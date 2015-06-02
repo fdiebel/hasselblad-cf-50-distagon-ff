@@ -1,4 +1,4 @@
-Follow Focus Gear for Hasselblad CF 50mm Distagon Lens
+Follow Focus Gear - Hasselblad CF 50mm Distagon Lens
 =============
 
 A simple friction mount follow focus gear designed to fit the barrel of the Hasselblad CF 50mm Distagon prime lens. Gear pitch is the standard 0.8mm.
